@@ -1,0 +1,16 @@
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\bin\Debug\net5.0\AgeCalculationApp.exe
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\bin\Debug\net5.0\AgeCalculationApp.deps.json
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\bin\Debug\net5.0\AgeCalculationApp.runtimeconfig.json
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\bin\Debug\net5.0\AgeCalculationApp.runtimeconfig.dev.json
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\bin\Debug\net5.0\AgeCalculationApp.dll
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\bin\Debug\net5.0\ref\AgeCalculationApp.dll
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\bin\Debug\net5.0\AgeCalculationApp.pdb
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\obj\Debug\net5.0\AgeCalculationApp.csproj.AssemblyReference.cache
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\obj\Debug\net5.0\AgeCalculationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\obj\Debug\net5.0\AgeCalculationApp.AssemblyInfoInputs.cache
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\obj\Debug\net5.0\AgeCalculationApp.AssemblyInfo.cs
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\obj\Debug\net5.0\AgeCalculationApp.csproj.CoreCompileInputs.cache
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\obj\Debug\net5.0\AgeCalculationApp.dll
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\obj\Debug\net5.0\ref\AgeCalculationApp.dll
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\obj\Debug\net5.0\AgeCalculationApp.pdb
+D:\Personal Project\richardcollab\ageCalculation\Src\AgeCalculationApp\obj\Debug\net5.0\AgeCalculationApp.genruntimeconfig.cache
